@@ -35,7 +35,7 @@ This site highlights some of the projects and skills I’ve developed so far.
 ## Contact Me
 
 - **Email:** [akachukwu.n996@gmail.com]
-- **GitHub:** [Jindum](https://github.com/Jindum)
+- **GitHub:** [https://Jindum.github.io]
 - **LinkedIn:** [linkedin.com/in/nnajindu-odinakachi]
 
 Thanks for visiting!
