@@ -1,5 +1,8 @@
 title: Odinakachi Nnajindum
 logo: /assets/img/my photo.jpg
+git add _config.yml assets/img/my_photo.jpg
+git commit -m "Add photo to site"
+git push origin main
 description: Aspiring Data Scientist | Python | SQL | Machine Learning Enthusiast
 url: https://Jindum.github.io
 show_downloads: true
